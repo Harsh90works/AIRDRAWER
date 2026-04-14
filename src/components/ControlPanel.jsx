@@ -215,7 +215,7 @@ const ControlPanel = ({
           <InstagramIcon size={20} />
         </a>
         <a
-          href="https://github.com/Axshatt"
+          href="https://github.com/harsh"
           target="_blank"
           rel="noopener noreferrer"
           style={{

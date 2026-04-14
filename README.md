@@ -51,10 +51,10 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
     ```
 3.  **Use**: Grant camera permissions and raise your hands in view!
 
-## 👨‍💻 Developer
-**Akshat Singh**  
-📸 Instagram: [@code.akshat.in](https://www.instagram.com/code.akshat.in/)  
-🐙 GitHub: [Axshatt](https://github.com/Axshatt)
+👨‍💻 Developer
+
+Harsh  
+🐙 GitHub: [harsh]()https://github.com/Harsh90works
 
 ---
 *Built with passion for AI and Spatial Computing.*
